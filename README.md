@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/Pedro-henrique-grunwald-2503b5129/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:pedro.grunwald@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-![Pedro Grunwald GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroGrunwald&_icons=true&theme=Dracula)
+![Pedro Grunwald GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroGrunwald&_icons=true&theme=jolly)
 
 
 ### Tecnologias que eu uso no meu dia e me aprofundo
