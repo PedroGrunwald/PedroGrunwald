@@ -3,7 +3,8 @@
 <a href="https://www.linkedin.com/in/Pedro-henrique-grunwald-2503b5129/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:pedro.grunwald@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-![Pedro Grunwald GitHub stats]((https://github-readme-stats.vercel.app/api?username=PedroGrunwald&show_icons=true&theme=dracula)
+![Pedro Grunwald GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroGrunwald&_icons=true&theme=Dracula)
+
 
 ### Tecnologias que eu uso no meu dia e me aprofundo
 
@@ -17,7 +18,7 @@
 
 </div><br/>
 
-![Top Langs](github-readme-stats-two-drab-77.vercel.app/api/top-langs/?username=PedroGrunwald&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGrunwald&_count=8)
 
 Sou apaixonado por tecnologia, atraves da oneBitCode descobri minha paixão e a incrivel capacidade que ela tem de mudar a vida das pessoas 🚀   
 
