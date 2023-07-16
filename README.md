@@ -1,5 +1,7 @@
 ### Ola! Eu sou Pedro Grunwald ✌️
 
+<p>Desenvvolvedor junior full stack em formação, me encantei com a area de tecnologia e busco todos os dias poder evoluir e mostrar o meu trabalho e desempenho para as empresas, acredito que  a tecnologia é capaz de alterar o rumo da historia e a vida das pessoas, com esse intuito busco incansavelmente me inserir nesse mundo e trazer mudanças na vida das pessoas e buscar a inovação com ela, sendo atraves de sites,sistemas, IAs, machine learning</p>
+
 <a href="https://www.linkedin.com/in/Pedro-henrique-grunwald-2503b5129/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:pedro.grunwald@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
