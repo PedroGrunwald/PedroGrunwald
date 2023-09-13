@@ -20,8 +20,8 @@
 
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGrunwald&_count=8)
-
+![Top Langs](https://readme-stats2-tan.vercel.app/api/top-langs/?username=PedroGrunwald&_count=8)
+readme-stats2-tan.vercel.app
 Sou apaixonado por tecnologia, atraves da oneBitCode descobri minha paixão e a incrivel capacidade que ela tem de mudar a vida das pessoas 🚀   
 
 Estou me aprofundando nessas tecnologias 👨‍💻 📚:
