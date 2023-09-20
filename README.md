@@ -32,5 +32,4 @@ Estou me aprofundando nessas tecnologias 👨‍💻 📚:
 <img align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div><br/>
 
-![Harlok's wakatime stats](https://readme-stats2-tan.vercel.app/api/wakatime?username=PedroGrunwald_count=8)
 
