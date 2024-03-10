@@ -26,7 +26,8 @@
   <img  src="https://readme-stats2-tan.vercel.app/api?username=PedroGrunwald&_icons=true&theme=jolly" />
   <img  src="https://readme-stats2-tan.vercel.app/api/top-langs/?username=PedroGrunwald&layout=donut-vertical" />
 </div>
- 
+
+ ##
 
 ### Tecnologias que eu uso no meu dia e me aprofundo
 
