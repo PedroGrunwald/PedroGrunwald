@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B57EDC&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Grunwald;I'm+27+years+old;I'm+from+Brazil;I+FrontEnd+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B57EDC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Grunwald;I'm+27+years+old;I'm+from+Brazil;I+FrontEnd+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroGrunwald&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroGrunwald&bg_color=0d1117&color=B57EDC&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
 
@@ -23,8 +23,8 @@
 
 
 <div align="center">
-  <img  src="https://readme-stats2-tan.vercel.app/api?username=PedroGrunwald&_icons=true&theme=jolly" />
-  <img  src="https://readme-stats2-tan.vercel.app/api/top-langs/?username=PedroGrunwald&layout=donut-vertical" />
+  <img height="180em"  src="https://readme-stats2-tan.vercel.app/api?username=PedroGrunwald&_icons=true&theme=jolly" />
+  <img height="180em"  src="https://readme-stats2-tan.vercel.app/api/top-langs/?username=PedroGrunwald&layout=compact&langs_count=16&theme=jolly" />
 </div>
 
  ##
@@ -56,6 +56,24 @@
           
 
 </div><br/>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikki-sl/nikki-sl/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikki-sl/nikki-sl/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nikki-sl/PedroGrunwald/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br><br>
+<div align="center">  
+<img src="https://streak-stats.demolab.com?user=PedroGrunwald&theme=jolly&hide_border=true" alt="GitHub Streak" />
+</div>
+
+
+<div align="center">
+<br><br>
+<p align="centre"><b>Visitors Count</b></p>   
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FPedroGrunwald&s=50&c=9932CC&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+</div>
 
 
 
